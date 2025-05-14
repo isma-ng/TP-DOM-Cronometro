@@ -22,11 +22,12 @@ Lógica optimizada: Sin memory leaks gracias a la gestión adecuada de intervalo
 Formato consistente: Siempre muestra 2 dígitos para horas, minutos y segundos
 
 ## 🛠 Tecnologías utilizadas
-Tecnología	Función
-HTML5	Estructura base
-Bootstrap5	Framework CSS
-JavaScript	Lógica de cronómetro
-Date API	Gestión precisa del tiempo
+- Tecnología	Función
+- HTML5	Estructura base
+- Bootstrap5	Framework CSS
+- JavaScript	Lógica de cronómetro
+- Date API	Gestión precisa del tiempo
+  
 ## ⏱️ Formatos de visualización
 - HH:MM:SS.MMM
 - 00:00:00.000 (inicial)

@@ -28,9 +28,9 @@ Bootstrap5	Framework CSS
 JavaScript	Lógica de cronómetro
 Date API	Gestión precisa del tiempo
 ## ⏱️ Formatos de visualización
-HH:MM:SS.MMM
-00:00:00.000 (inicial)
-02:15:45.356 (ejemplo en ejecución)
+- HH:MM:SS.MMM
+- 00:00:00.000 (inicial)
+- 02:15:45.356 (ejemplo en ejecución)
 ## ⚙️ Funcionamiento interno
 Base de tiempo: Usa Date.now() para máxima precisión
 
@@ -41,14 +41,14 @@ Cálculo: elapsedTime = Date.now() - startTime
 Formateo: Función dedicada para convertir ms a formato legible
 
 ## 🎨 Interfaz de usuario
-[CRONÓMETRO DIGITAL]
-[ 00:00:00.000 ]
-[Iniciar][Pausar][Reset]
-Botón Iniciar: Verde - Comienza el conteo
+- [CRONÓMETRO DIGITAL]
+- [ 00:00:00.000 ]
+- [Iniciar][Pausar][Reset]
+- Botón Iniciar: Verde - Comienza el conteo
 
-Botón Pausar: Rojo - Detiene el cronómetro
+- Botón Pausar: Rojo - Detiene el cronómetro
 
-Botón Reset: Gris - Vuelve a cero
+- Botón Reset: Gris - Vuelve a cero
 
 ## 📌 Cómo usar
 Iniciar: Click en "Iniciar" (verde)
